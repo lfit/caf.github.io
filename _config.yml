@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Where is codeaurora.org?
+title: bye.codeaurora.org
 email: admin@codeaurora.org
 description: >- # this means to ignore newlines until "baseurl:"
   CodeAurora.org is now archived.
