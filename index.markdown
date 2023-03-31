@@ -1,8 +1,6 @@
 ---
 layout: home
 ---
-# codeaurora.org retirement
-
 Thank you for your interest in codeaurora.org. As of March 31, 2023, all
 source repositories have been migrated to other platforms and the project has
 been shut down.
