@@ -4,3 +4,6 @@
 
 layout: home
 ---
+# Bye
+
+Test index page without posts.
